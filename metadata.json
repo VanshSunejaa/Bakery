@@ -1,0 +1,6 @@
+{
+  "name": "L&D Home Bakery",
+  "description": "Bespoke handcrafted custom cakes and luxury dessert studio based in New Jersey, USA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
